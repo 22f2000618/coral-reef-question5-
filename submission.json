@@ -1,7 +1,9 @@
 {
-  "prompt": "Aerial drone photograph of a stone bridge crossing a shallow river, excessive number of thin support pillars positioned with impractical precision, each pillar placed to land on or avoid specific rocks and pebbles visible in the clear riverbed below, over-engineered design that clearly only works for this exact configuration of stones, autumn forest setting, natural lighting, photorealistic, 8k detail",
+  "prompt": "18th century copper-plate engraving from a natural history encyclopedia, showing a single botanical specimen (leaf or flower) with excessive scientific detail and over-annotation, dozens of labeled points (A, B, C, D continuing through entire alphabet), multiple magnified detail views of minor imperfections, fine cross-hatching for shading, stippling for texture, measurement marks and scale indicators, obsessively precise documentation of every variation, engraved on cream laid paper with visible plate marks, monochromatic black ink, classical serif typeface for labels, style of Diderot's Encyclopédie plates (1750-1780), scientific illustration over-documenting irrelevant details",
   "model": "Craiyon",
   "concept": "overfitting",
-  "metaphor": "Bridge with support pillars positioned for every rock on one specific riverbed—perfectly stable here, would collapse elsewhere.",
+  "tradition_name": "Scientific Engraving from Natural History Publications",
+  "tradition_period": "1750-1850 (late 18th to early 19th century)",
+  "tradition_approach": "Fine cross-hatching and stippling for shading, monochromatic black ink palette, excessive labeling and annotation to represent over-fitting to training data details, classical serif engraved typography, specimen-centered composition",
   "publish_email": true
 }
